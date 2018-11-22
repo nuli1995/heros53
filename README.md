@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+##src目录分类
+- components 存放公共组件
+-views  存放'页面',根据路由变化的组件
+-routes 路由
+
 ##使用vue-cli创建项目
 
 src 源代码
@@ -18,7 +23,7 @@ index.html  单文件首页
 webpack.config.js webpack的配置文件
 
 - 安装vue-cli
-
+ 
 ```bash
 npm i -g vue-cli
 ```
